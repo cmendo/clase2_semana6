@@ -1,1 +1,3 @@
-# clase2_semana6
+MODIFIED :jack_o_lantern:
+COMMITED
+STAGED
